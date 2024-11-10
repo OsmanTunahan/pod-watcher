@@ -1,4 +1,5 @@
-# Pod Watcher
+# Pod Watcher ![version](https://img.shields.io/badge/version-1.1-blue) ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+
 
 Pod Watcher is a simple program to monitor Kubernetes pods and log their events such as creation, deletion, and updates.
 
